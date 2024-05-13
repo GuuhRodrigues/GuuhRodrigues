@@ -206,7 +206,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </div>
 <div>
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=yi3mj0fsc16up55tt5do20rrz"/></a> -->
-<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=yi3mj0fsc16up55tt5do20rrz&width=400"/></a>
+<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=guuhrodrigues7&width=400"/></a>
 </div>
 <div>
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=yi3mj0fsc16up55tt5do20rrz&cover_image=true&theme=default"/> &nbsp; &nbsp; 
