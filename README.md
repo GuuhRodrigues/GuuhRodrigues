@@ -42,7 +42,7 @@
 
 </div>
 <div align="justify">
-<i><b>Em Desenvolvimento</b> :wave:<code>Aramuni</code>, ... <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> ....</i> :man_teacher:<br />
+<i><b>Em Desenvolvimento</b> :wave:<code>Gustavo</code>, ... <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> ....</i> :man_teacher:<br />
 </div>
 
 -----
