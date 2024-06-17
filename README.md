@@ -20,7 +20,7 @@
 </td>
 <td><a href="https://www.instagram.com/GuuhRodrigues/" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/GuuhRodrigues/" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/gustavo-rodrigues-0aa514236/" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td>
