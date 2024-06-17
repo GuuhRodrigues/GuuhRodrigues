@@ -14,7 +14,7 @@
 </td>
 <td><a href="https://replit.com/@GustavoRodri110"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:GuuhRodrigues@gmail.com" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:guhrodriguesads@gmail.com" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
