@@ -18,8 +18,8 @@
 </td>
 <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/GuuhRodrigues/" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
-</td>
+<!-- <td><a href="https://www.instagram.com/GuuhRodrigues/" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+</td> -->
 <td><a href="https://www.linkedin.com/in/gustavo-rodrigues-0aa514236/" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
