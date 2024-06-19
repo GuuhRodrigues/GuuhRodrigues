@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Header" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/capa.jpg?raw=true"/>
+<img align="center" alt="Header" src=""/>
 </div>
 
 -----
