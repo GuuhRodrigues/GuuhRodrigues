@@ -200,6 +200,7 @@ Em Desenvolvimento...
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=yi3mj0fsc16up55tt5do20rrz&count=10"/>
 </div>
  -->
+ <!--
 <div>
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
@@ -209,3 +210,4 @@ Em Desenvolvimento...
 </details>
 </div>
 </div>
+ -->
