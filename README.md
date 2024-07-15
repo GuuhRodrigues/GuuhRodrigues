@@ -181,7 +181,7 @@ Em Desenvolvimento...
 -----
 
 -----
-
+ <!--
 <div>
 <div>
 <details>
@@ -190,6 +190,7 @@ Em Desenvolvimento...
 </details>
 </div>
 <div>
+ -->
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=yi3mj0fsc16up55tt5do20rrz"/></a> -->
 <a href="https://www.last.fm/pt/user/guuhrodrigues7" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=guuhrodrigues7&width=400"/></a>
 </div>
