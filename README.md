@@ -192,12 +192,14 @@ Em Desenvolvimento...
 <div>
  -->
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=yi3mj0fsc16up55tt5do20rrz"/></a> -->
+<!--
 <a href="https://www.last.fm/pt/user/guuhrodrigues7" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=guuhrodrigues7&width=400"/></a>
 </div>
 <div>
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=yi3mj0fsc16up55tt5do20rrz&cover_image=true&theme=default"/> &nbsp; &nbsp; 
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=yi3mj0fsc16up55tt5do20rrz&count=10"/>
 </div>
+ -->
 <div>
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
