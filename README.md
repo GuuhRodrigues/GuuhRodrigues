@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Header" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/fundo.png"/>
+<img align="center" alt="Header" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/fundo.png?raw=true"/>
 </div>
 
 -----
@@ -40,31 +40,39 @@
 
 </div>
 <div align="justify">
-<i><b>Em Desenvolvimento</b> :wave:<code>Gustavo</code>, ... <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> ....</i> :man_teacher:<br />
+<i>:wave: Olá, eu sou o <b>Gustavo</b> — <b>Engenheiro de Dados</b> com atuação em plataformas corporativas de dados, envolvendo ingestão, validação, sustentação, migração, automação e evolução de ambientes Data Lake/Lakehouse.</i><br />
 </div>
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+<img height="20" alt="GIF" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/soulgem.gif?raw=true"/> Sobre mim:
 
 <div align="justify">
-Em Desenvolvimento...
-</div>
-
------
-
-<div>
-<div>
-<img align="right" alt="GIF" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
-</div>
-
-<img height="20" alt="GIF" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
-
-<div align="justify">
-<p> 
-- Em Desenvolvimento
-- Em Desenvolvimento
+<p>
+Atualmente atuo em projetos de dados com <b>Python</b>, <b>SQL</b>, <b>Git</b>, <b>Docker</b>, <b>Airflow</b>, diversos serviços <b>AWS</b>, <b>Snowflake</b>, <b>dbt</b>, <b>Terraform</b>, <b>CDK/CDKTF</b>, <b>APIs</b>, <b>Power BI</b> e <b>Qlik Sense</b>. Tenho experiência em ETL/ELT, qualidade de dados, desenvolvimento e melhoria de pipelines, integrações via API, automação de processos e apoio a iniciativas de FinOps e governança de dados.
 </p>
+<p>
+Minha trajetória profissional começou no setor de vendas e varejo, onde desenvolvi visão de negócio, comunicação, relacionamento com clientes, negociação, senso de responsabilidade e capacidade de trabalhar em equipe. Essa base me ajuda hoje a atuar com uma visão mais completa: não apenas construindo soluções técnicas, mas entendendo o impacto dos dados para as áreas de negócio e para a tomada de decisão.
+</p>
+</div>
+
+-----
+
+<div>
+<div>
+<img align="right" alt="GIF" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
+</div>
+
+<img height="20" alt="GIF" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/soulgem.gif?raw=true"/> Áreas de foco e estudo:
+
+<div align="justify">
+
+- Engenharia e arquitetura de dados, com foco em organização, confiabilidade, escalabilidade e qualidade
+- Cloud (AWS) e infraestrutura como código (Terraform, CDK/CDKTF)
+- ETL/ELT, evolução de pipelines e automação de processos
+- FinOps e governança de dados
+- Transformar dados em informação útil, segura e acionável para o negócio
+
 </div>
 </div>
 
@@ -169,16 +177,14 @@ Em Desenvolvimento...
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/graphic.gif?raw=true"/> GitHub Stats:
 
 <div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuuhRodrigues&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuuhRodrigues&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuuhRodrigues&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuuhRodrigues&theme=github_dark"/>
+<img align="right" alt="GitHub Details" width="420px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuuhRodrigues&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuuhRodrigues&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuuhRodrigues&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuuhRodrigues&theme=github_dark"/>
 </div>
-
------
 
 -----
  <!--
