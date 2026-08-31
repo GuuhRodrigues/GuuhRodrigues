@@ -39,19 +39,15 @@ Minha trajetória profissional começou no setor de vendas e varejo, onde desenv
 
 <div>
 
-<img align="right" width="300" height="225" hspace="28" alt="Ilustração — engenharia de dados" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/dev.gif?raw=true"/>
+<img align="right" width="330" height="215" alt="Ilustração — engenharia de dados" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/foco.webp?raw=true"/>
 
 <img height="20" alt="GIF" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/soulgem.gif?raw=true"/> Áreas de foco e estudo:
-
-<div align="justify">
 
 - Engenharia e arquitetura de dados, com foco em organização, confiabilidade, escalabilidade e qualidade
 - Cloud (AWS) e infraestrutura como código (Terraform, CDK/CDKTF)
 - ETL/ELT, evolução de pipelines e automação de processos
 - FinOps e governança de dados
 - Transformar dados em informação útil, segura e acionável para o negócio
-
-</div>
 
 <br clear="both"/>
 
