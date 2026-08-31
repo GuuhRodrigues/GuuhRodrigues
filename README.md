@@ -5,40 +5,19 @@
 -----
 
 <div align="center">
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<td><a href="https://github.com/GuuhRodrigues" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://replit.com/@GustavoRodri110"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="mailto:guhrodriguesads@gmail.com" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<!-- <td><a href="https://www.instagram.com/GuuhRodrigues/" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
-</td> -->
-<td><a href="https://www.linkedin.com/in/gustavo-rodrigues-0aa514236/" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
-</td>-->
-<!-- <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td> -->
-<!-- <td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
-</td> -->
-<!-- <td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
-</td> -->
-<!-- <td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
-</td> -->
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-</table>
+
+<code><a href="https://github.com/GuuhRodrigues" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/github-light.svg?raw=true"/><img height="36" alt="GitHub" title="GitHub" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/github.svg?raw=true"/></picture></a></code>
+&nbsp;
+<code><a href="https://replit.com/@GustavoRodri110" target="_blank"><img height="36" alt="Replit" title="Replit" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/replit.svg?raw=true"/></a></code>
+&nbsp;
+<code><a href="mailto:guhrodriguesads@gmail.com"><img height="36" alt="E-mail" title="guhrodriguesads@gmail.com" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/gmail.svg?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://wa.me/5531980402103" target="_blank"><img height="36" alt="WhatsApp" title="WhatsApp" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/whatsapp.svg?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://www.linkedin.com/in/gustavo-rodrigues-0aa514236/" target="_blank"><img height="36" alt="LinkedIn" title="LinkedIn" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/linkedin.svg?raw=true"/></a></code>
 
 </div>
+
 <div align="justify">
 <i>:wave: Olá, eu sou o <b>Gustavo</b> — <b>Engenheiro de Dados</b> com atuação em plataformas corporativas de dados, envolvendo ingestão, validação, sustentação, migração, automação e evolução de ambientes Data Lake/Lakehouse.</i><br />
 </div>
@@ -59,9 +38,8 @@ Minha trajetória profissional começou no setor de vendas e varejo, onde desenv
 -----
 
 <div>
-<div>
-<img align="right" alt="GIF" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
-</div>
+
+<img align="right" width="300" height="225" hspace="28" alt="Ilustração — engenharia de dados" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/dev.gif?raw=true"/>
 
 <img height="20" alt="GIF" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/soulgem.gif?raw=true"/> Áreas de foco e estudo:
 
@@ -74,6 +52,9 @@ Minha trajetória profissional começou no setor de vendas e varejo, onde desenv
 - Transformar dados em informação útil, segura e acionável para o negócio
 
 </div>
+
+<br clear="both"/>
+
 </div>
 
 -----
@@ -104,7 +85,7 @@ Minha trajetória profissional começou no setor de vendas e varejo, onde desenv
 &nbsp;
 <code><a href="https://www.qlik.com/us/products/qlik-sense" target="_blank"><img height="36" alt="Qlik Sense" src="https://github.com/GuuhRodrigues/GuuhRodrigues/blob/main/img/qlik.svg?raw=true"/></a></code>
 
-<sub><i>Também no dia a dia: AWS CDK / CDKTF e integrações e automações via API.</i></sub>
+<sub><i>Também no dia a dia: AWS CDK / CDKTF, além de integrações e automações via API.</i></sub>
 
 </div>
 
